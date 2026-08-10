@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
     plugins: [react()],
-    base: '/ex_Stopwatch/',  // ← your repo name, exactly
+    base: '/ex_Stopwatch/',
 })
 
